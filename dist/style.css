@@ -17,7 +17,7 @@ html {
 }
 
 #Top {
-  background: url("https://s535sas.storage.yandex.net/rdisk/951e41e591360ea2577ac6022b548ebebe0ba57383c2b08ad8ef5162c83bee6a/5e754c6e/2fjZT_elQhqTxHT1CuLLYoJZ9PJiS1iPk93gcsRcwAXl5U4Q-ESIWOmK3PnYurUdMIWPXgx8_u0ojzZbNdX6iQ==?uid=371413873&filename=bg_banner.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&owner_uid=371413873&media_type=image&fsize=1662468&hid=121849488930d43fd1156f225323ebb9&etag=0222b6687f5881022da90fd41c1805f8&rtoken=KC4JF8fAzQlJ&force_default=yes&ycrid=na-84778abc226579de0c142d15e61b2ac2-downloader18e&ts=5a151556a3540&s=babd13b5538c5fb7a8e58930f219be72f6a8bab9b5975fe32e47819616b05f43&pb=U2FsdGVkX1-0urOC8_DQ_GJY813HUvYcp-r_qYUPPtj96CQ6MitwCRXse3t2yuRcVHHMPjerAahAc5Z8BUdm7ts6XdrfHruVFBDIBrNzcOA") var(--text-white-color) center no-repeat;
+  background: url("../images/bg_banner.png") var(--text-white-color) center no-repeat;
   background-size: cover;
   padding: 27% 0;
 }
@@ -28,7 +28,7 @@ html {
 }
 
 #Recipes {
-  background: url("https://s178myt.storage.yandex.net/rdisk/db01f515b177b8c19cab4c70e6c300253d912d2dd350c58415340d92d086d8dd/5e752ebc/2fjZT_elQhqTxHT1CuLLYotzX86QOykKTgqylOJZw4tdxaQMNcCkEoP9hZImMY55pGWWpPDz_Yl9_N82tFnXlg==?uid=371413873&filename=bg.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&owner_uid=371413873&media_type=image&hid=cb29486ad0f8bbff8dd73d912c0037b4&fsize=363064&etag=84b021ba4dee5f758fd58827c67d0792&rtoken=WE7AQGJI4fyF&force_default=yes&ycrid=na-d2f9bce1a1ea31b154bca9f0ccf19c0e-downloader12f&ts=5a14f905c2700&s=fc1017acc31c40ed1588df739d9f81e56d5c3bef71afc7971d14af2b282d5336&pb=U2FsdGVkX18GpsQNzFY6KaZSb4Iv02LMROG92uQSX1bt-UBabJt6SEQYI2MR-zTrK3qBxvbsJlR9cagtNInhuYY6h6mV5n8UEqH9ElKwyvI") var(--text-white-color);
+  background: url("../images/bg.png") var(--text-white-color);
   padding: 8% 20%;
   display: flex;
   justify-content: center;
@@ -49,7 +49,7 @@ html {
 }
 
 #Contact {
-  background: url("https://s125vla.storage.yandex.net/rdisk/4a4cb1e3c6b949f542f15cd1a35b44d84c4eae09872e66f073d5f4dfc12d865d/5e752ef0/FhOND4tbv9xeqPMx1PGBvOWiUOCy8hFzM4m-cLq0f-h8E7dIsAGraa8npNgVNDqmHmjo_qKTIKTWuhF7T2Gu0Q==?uid=371413873&filename=contact.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&owner_uid=371413873&etag=a4dc9a48f4da1ac2d3556179f25118ef&fsize=411560&hid=f88f13badc731d2dd3806d19d486727b&media_type=image&rtoken=929GHVmI18PE&force_default=yes&ycrid=na-fd0e7427d88cb75c60725110263de7cb-downloader22e&ts=5a14f93759c00&s=39de582bd9c539f662801e7b44a9e20b47565ea9a9f70f511b7e5515eca7fa30&pb=U2FsdGVkX1-1pQ5kHR6kXOCaZEtGqR3dBW8_mGMSc2It6uBVPG8g1Qm0dHKAiz-3923a8SxVxWlFU2ZajadHU_Fe9Mwct49n1IerWAcfyLQ") var(--text-black-color);
+  background: url("..images/contact.jpg") var(--text-black-color);
   padding: 5% 20%;
   display: flex;
   justify-content: center;
@@ -256,7 +256,7 @@ footer {
   width: 40%;
   margin: 0;
   box-shadow: var(--shadow);
-  background: url("https://s48myt.storage.yandex.net/rdisk/46be512ab1753ea2181458d13acba8a41afb31fb9d46f1cc62f7198bc725aeeb/5e752e65/2fjZT_elQhqTxHT1CuLLYmIaH79uUVu_WlD4CQpoME005yePhVL8Kw6H-SnFhk-ek0WKxcim6AzEAriXWj_png==?uid=371413873&filename=about.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&owner_uid=371413873&etag=5f20a2dc36789b3601941fe236003f6d&fsize=371249&hid=e361348cc245d283d66b68b992200651&media_type=image&rtoken=mhC70n58IDdr&force_default=yes&ycrid=na-17933b376955a79907fcabae781600dc-downloader13h&ts=5a14f8b2ca340&s=2cc5e9d26ed424853d4243c4585dc7c1df5608ade4cff4fb48fea2ce7314dcee&pb=U2FsdGVkX19XVApiyLsNPhGYOyDDbYJEqNKqnKX1Jxhjtvcc_9zsE7vTcPPGQ4ajSzy5vuRdhfYbsK_eqA8XsTEYuiZP5Xlem-sjlCn6wDc") #25262a center no-repeat;
+  background: url("..images/about.png") #25262a center no-repeat;
   background-size: cover;
 }
 
