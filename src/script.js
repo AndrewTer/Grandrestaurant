@@ -13,11 +13,8 @@ function all_resize()
   document.getElementById('story-img').style.height = height_image + 'px';
   
   document.getElementById('portfolio-img-1').style.height = document.getElementById('portfolio-img-1').clientWidth + 'px';
-  
   document.getElementById('portfolio-img-2').style.height = document.getElementById('portfolio-img-2').clientWidth + 'px';
-  
   document.getElementById('portfolio-img-3').style.height = document.getElementById('portfolio-img-3').clientWidth + 'px';
-  
   document.getElementById('portfolio-img-4').style.height = document.getElementById('portfolio-img-4').clientWidth + 'px';
   
   // Ширина экрана
